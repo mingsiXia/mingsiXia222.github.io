@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Royal College of Art</a>. Kensington Gore, South KensingtonLondon SW7 2EU. <a href='mingsixia44@gmail.com'>MMS</a>.
+subtitle: <a href='#'>Royal College of Art</a>. Kensington Gore, South KensingtonLondon SW7 2EU. <a href='mingsixia44@gmail.com'>Contact</a>.
 
 profile:
   align: right
